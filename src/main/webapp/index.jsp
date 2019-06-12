@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Sony !</h2>
+<h2>Hello friends, this is sony 2 project</h2>
 </body>
 </html>
